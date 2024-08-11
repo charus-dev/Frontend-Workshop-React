@@ -21,4 +21,3 @@ To get started with this project, you need to have [Node.js](https://nodejs.org/
 
    ```bash
    git clone https://github.com/yourusername/react-product-card-color-picker.git
-   cd react-product-card-color-picker
