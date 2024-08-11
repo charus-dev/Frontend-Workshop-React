@@ -1,7 +1,4 @@
 # Frontend-Workshop-React
-Let's enhance the README with emojis to make it more engaging:
-
----
 
 # React Product Card and Color Picker
 
