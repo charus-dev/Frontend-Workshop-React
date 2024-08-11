@@ -1,0 +1,109 @@
+/* General body styles */
+body {
+    background-color: #f5f5f5;
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Container for the app */
+  .App {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  /* Greeting component styles */
+  .Greeting {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    width: 100%;
+    text-align: center;
+  }
+  
+  /* ProductCard component styles */
+  .ProductCard {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 300px;
+    margin: 20px auto; 
+    text-align: center;
+  }
+  
+  .ProductCard h3 {
+    margin: 0 0 10px;
+  }
+  
+  .ProductCard p {
+    margin: 0 0 20px;
+  }
+  
+  .ProductCard textarea {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+  }
+  
+  .ProductCard button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+  }
+  
+  .ProductCard button:hover {
+    background-color: #0056b3;
+  }
+  
+  .ProductCard ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .ProductCard li {
+    background-color: #f1f1f1;
+    border-radius: 4px;
+    padding: 10px;
+    margin: 5px 0;
+  }
+  
+
+  /* Styles for ColorPicker */
+.color-picker-container {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .color-picker-label {
+    margin-right: 10px;
+    font-size: 16px;
+    color: #333;
+  }
+  
+  .color-picker-input {
+    width: 5rem;
+    height: 1.5rem;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    border-radius: 0.3rem;
+    background-color: transparent;
+  }
+  
