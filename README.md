@@ -6,7 +6,11 @@
 
 Welcome to the **React Product Card and Color Picker** application! This project demonstrates two interactive components:
 
-- Greeting Component:  A personalized greeting message where you can input your name. Change the message color using the color picker! 
+- Signup & Login : Enter Name and Password, You can login only if signup and login name & pwwd matches.
+- Profile Section: With the name that you signed in, your profile section will be updated with the name and email id(dynamic-creation).
+- Nav Links: Sign-Up, Login, Profile - these are included in nav-link.
+- Main Component: It is the parent component.
+- Greeting Component:  A personalized greeting message where you can input your name. Change the message color using the color picker!
 - ProductCard Component: Share your thoughts on a product with an easy-to-use review form. 
 - ColorPicker Component: Select a color to dynamically update the greeting message's color.
 
