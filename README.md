@@ -44,6 +44,16 @@ To set up the project locally, follow these steps:
    npm start
    ```
 
+   Other Libraries:-
+   
+   ```bash
+   npm install react-router-dom
+   ```
+
+   ```bash
+   npm install @reduxjs/toolkit react-redux
+   ```
+
    Open your browser and visit `http://localhost:3000` to see the app in action! 🌐
 
 ## Usage
