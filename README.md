@@ -1,6 +1,6 @@
 # Frontend-Workshop-React
 
-# React Product Card and Color Picker
+# React Singup, Login, Profile Section, Product Card and Color Picker
 
 ## Overview
 
